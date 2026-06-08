@@ -118,6 +118,15 @@ df = (spark.read
   <img src="Bigquery_ServiceAC.png.jpg" width="400" height="400" >
 </p>
 
+<p align="center">
+  <img src="image/GCP2.jpg" width="400" height="400" >
+</p>
+
+<p align="center">
+  <img src="image/GCP3.jpg" width="400" height="400" >
+</p>
+
+
 ## Step 1 — Create a Service Account in GCP Console
 
 ### 1.1 Open IAM & Admin
