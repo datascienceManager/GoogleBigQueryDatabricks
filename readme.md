@@ -115,7 +115,7 @@ df = (spark.read
 ### from GCP Service account downloading JSON Key 
 
 <p align="center">
-  <img src="images/architecture.png" width="800" alt="Architecture Diagram">
+  <img src="Bigquery_ServiceAC.png.jpg" width="800" >
 </p>
 
 ## Step 1 — Create a Service Account in GCP Console
